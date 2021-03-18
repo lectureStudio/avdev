@@ -1,0 +1,26 @@
+# Eclipse Core
+**/.classpath
+**/.project
+**/.settings/
+
+# IntelliJ IDEA
+**/*.iml
+**/.idea
+
+# Visual Studio project files
+**/*.sdf
+**/*.opensdf
+**/.vs
+
+# Visual Studio build directories
+**/Debug
+**/Release
+**/x64
+
+# Maven Build
+**/target
+
+# Compiled libraries
+*.so
+*.dylib
+*.dll
