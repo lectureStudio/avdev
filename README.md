@@ -6,7 +6,7 @@ Java native interface implementation for audio/video devices. The goal of this p
 <dependency>
     <groupId>org.lecturestudio.avdev</groupId>
     <artifactId>avdev</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
 </dependency>
 ```
 
