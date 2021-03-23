@@ -4,7 +4,7 @@
 
 	<groupId>org.lecturestudio.avdev</groupId>
 	<artifactId>avdev-parent</artifactId>
-	<version>0.1.0</version>
+	<version>0.2.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>avdev-parent</name>
@@ -38,7 +38,7 @@
 		<connection>scm:git:git://github.com/lecturestudio/avdev.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/lecturestudio/avdev.git</developerConnection>
 		<url>https://github.com/lecturestudio/avdev/tree/master</url>
-	  <tag>v0.1.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<distributionManagement>
